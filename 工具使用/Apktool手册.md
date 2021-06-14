@@ -39,3 +39,5 @@ apktool b bar -o new_bar.apk
 ```shell
 apktool if framework-res.apk
 ```
+
+## 中级
